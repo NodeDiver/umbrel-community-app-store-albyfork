@@ -1,3 +1,7 @@
 .DS_Store
 /.idea/
 /.cursor/
+/.claude/
+
+# SessionEnd chat archives (auto-added)
+previousclaudechat/
