@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: albyhub
+id: albyhub_test
 name: Alby Hub ✨
 tagline: Self-custodial Lightning wallet with integrated node and app connections
 category: bitcoin
